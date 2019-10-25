@@ -10,6 +10,7 @@ Every Two dimensional Image can be represented as 3 dimensional matrix with the 
 Once we get a grayscale image(2d matrix). In order to represent all the images in the form of a single matrix. We will flatten them and then combine them into a single matrix.
 
 Gray Scale Image in the Dataset,
+
 ![Some Image](images/img1.png)
 
 Before we actually flatten and combine them, we need to take the average of all the images and subtract the original image from the average image.
